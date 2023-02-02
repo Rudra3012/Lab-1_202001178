@@ -1,8 +1,8 @@
 # Lab-1_202001178
 
-Q1. Identify FRs and NFRs:
+**Q1. Identify FRs and NFRs:**
 
-Functional Requirements:
+**Functional Requirements:**
 
 1.) A web Application that uses HTML 5 technology. 
 
@@ -26,7 +26,7 @@ Functional Requirements:
 
 11.) Confidential information like passwords of users must not be stored in plain text. It must have some encryption.
 
-Non Functional Requirements:
+**Non Functional Requirements:**
 
 1.) Scalability: Application should be able to handle large amount of users at the same time. Application should have sufficiently large database to handle information of all members and details about all books. 
 
@@ -40,15 +40,15 @@ Non Functional Requirements:
 
 6.) Security: Application should be secure. It must not display personal or login information of members to other users. 
 
-Q2. Identify scope, features and non-functional aspects of the following problem.
+**Q2. Identify scope, features and non-functional aspects of the following problem.**
 
-Scope: 
+**Scope:** 
 
 Target audience of our project are people who are suffering from disabling hearing loss. This application will help them to recognize key sound events where immediate alert or continual logging is required. 
 Project comprises of a mobile application that uses artificial intelligence to identify key sound events. Artificial intelligence should comprise of trained neural networks to identify sounds.
 Mobile application must be fast and highly accurate because it is used by our target audience in day to day life to take important desicions in real time. 
 
-Features:
+**Features:**
 
 Application should be able to respond to external noise by alerts on screen, using vibrations or using inbuilt flashlight. This is required to gain attention of the user during sounds of interest and alert them. Mobile application should have access to flashlight, vibration sensor and notification panel of the mobile. 
 
@@ -58,7 +58,7 @@ Application should be optimized to satisfy individual needs of each user. This s
 
 Application should have low latency and provide output within seconds.
 
-Non-functional aspects:
+**Non-functional aspects:**
 
 Mobile application should be compatible with all operating systems like android, ios, etc. Mobile application should be available on all popular app stores free of cost. 
 
